@@ -1,0 +1,3 @@
+[submodule "R_basic_functions"]
+	path = R_basic_functions
+	url = git@github.com:neurocompute/R_basic_functions.git
